@@ -3,7 +3,6 @@ def my_func():
 
 def main():
     print('main.py')
-    print('Hello World')
 
 if __name__ == '__main__':
     main()
